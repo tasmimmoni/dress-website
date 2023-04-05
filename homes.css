@@ -1,0 +1,31 @@
+.heads {
+    color: rgb(248, 113, 113);
+    font-size: 40px;
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.num {
+    width: 400px;
+    height: 30px;
+}
+
+.log {
+    background-color: rgb(202, 192, 192);
+    background-image: url(images/0a899e32-da0b-4e1f-abcb-66d842d7083b.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+
+
+
+    #login-page {
+        background-color: white;
+    }
+
+    .header {
+        display: block;
+    }
